@@ -21,7 +21,7 @@ pool:
 resources:
   repositories:
     - repository: mlops-templates  # Template Repo
-      name: Azure/mlops-templates
+      name: msteller-Ai/mlops-templates
       endpoint: github-connection # need to set up and hardcode
       type: github
 
